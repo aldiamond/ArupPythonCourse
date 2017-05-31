@@ -76,3 +76,9 @@ Head over to the session 0 folder. It contains installation instructions, pre-re
 ## Where to get help
 
 If in doubt, ASK! There is a slack channel that has been created for this course. Post any question you have there and one of the tutor or a fellow student will answer your question.
+
+## Acknowledgements
+
+Large parts of this course were carried over from the previous [course](https://github.com/tomvalorsa/python-course). For this we would like to sincerly thank [Tom Valorsa](https://github.com/tomvalorsa), [Ian Mackenzie](https://github.com/ianmackenzie) and [Tom Clark](https://github.com/tomreeveclark) for their contributions to the problem sets and solutions.
+
+We would also like to thank Kim Sherwin and Selma Parris from the Arup Uni team for their help getting all this sorted. We could not have done it without you.
